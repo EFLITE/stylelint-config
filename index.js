@@ -12,8 +12,10 @@ module.exports = {
     'out/**',
     '.svelte-kit/**',
     '**/*.js',
+    '**/*.jsx',
     '**/.*',
     '**/*.ts',
+    '**/*.tsx',
   ],
   plugins: ['stylelint-color-format'],
   rules: {
