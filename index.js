@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   defaultSeverity: 'warning',
   extends: [
     'stylelint-config-standard-scss',
@@ -23,9 +23,9 @@ module.exports = {
     'color-format/format': {
       format: 'hsl',
     },
-    'color-function-notation': 'legacy';,
-    'function-disallowed-list': ['rgb', 'rgba'];,
-    'hue-degree-notation': 'number';,
+    'color-function-notation': 'legacy',
+    'function-disallowed-list': ['rgb', 'rgba'],
+    'hue-degree-notation': 'number',
     'no-invalid-position-at-import-rule': null,
     'scss/dollar-variable-pattern': null,
     'selector-class-pattern': null,
