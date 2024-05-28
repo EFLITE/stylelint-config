@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "stylelint": "^16.5.0",
+    "stylelint": "^16.6.1",
     "stylelint-color-format": "^1.1.0",
     "stylelint-config-html": "^1.1.0",
     "stylelint-config-recess-order": "^5.0.1",
@@ -19,6 +19,6 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.17.0",
-    "eslint": "^9.2.0"
+    "eslint": "^9.3.0"
   }
 }
