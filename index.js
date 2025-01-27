@@ -19,6 +19,7 @@ export default {
   ],
   plugins: ['stylelint-color-format'],
   rules: {
+    'declaration-block-no-duplicate-properties': true,
     'alpha-value-notation': 'number',
     'color-format/format': {
       format: 'hsl',
