@@ -11,14 +11,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "stylelint": "^16.6.1",
+    "stylelint": "^16.14.0",
     "stylelint-color-format": "^1.1.0",
     "stylelint-config-html": "^1.1.0",
-    "stylelint-config-recess-order": "^5.0.1",
-    "stylelint-config-standard-scss": "^13.1.0"
+    "stylelint-config-recess-order": "^6.0.0",
+    "stylelint-config-standard-scss": "^14.0.0"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^2.19.1",
-    "eslint": "^9.3.0"
+    "@antfu/eslint-config": "^4.1.0",
+    "eslint": "^9.19.0"
   }
 }
